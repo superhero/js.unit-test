@@ -1,0 +1,19 @@
+{
+  "name"        :  "@superhero/unit-test",
+  "version"     :  "0.0.1",
+  "description" :  "Unit test module",
+  "repository"  :  "git@github.com:superhero/js.unit-test.git",
+  "main"        :  "lib/unit-test.js",
+  "license"     :  "WTFPL",
+  "keywords"    : ["unit","test"],
+  "scripts"     :
+  {
+    "test" : "node test/test.js"
+  },
+  "author"      :
+  {
+    "name"  : "Erik Landvall",
+    "email" : "erik@landvall.se",
+    "url"   : "http://erik.landvall.se"
+  }
+}
