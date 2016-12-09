@@ -1,6 +1,6 @@
 {
   "name"        :  "@superhero/unit-test",
-  "version"     :  "0.0.4",
+  "version"     :  "0.0.5",
   "description" :  "Unit test",
   "repository"  :  "git@github.com:superhero/js.unit-test.git",
   "main"        :  "lib/unit-test.js",
